@@ -76,9 +76,4 @@ Through developing this project, I gained practical experience in:
 
 **Pardis Aghamohammadrafi**
 
-- GitHub: https://github.com/aghamohammadrafipardis-tech
-- LinkedIn: https://www.linkedin.com/in/pardis-aghamohammadrafi
-
 ---
-
-   git clone https://github.com/aghamohammadrafipardis-tech/calculator.git
